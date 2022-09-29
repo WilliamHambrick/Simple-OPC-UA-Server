@@ -1,0 +1,9 @@
+{
+    "ServerEndpoint": "opc.tcp://127.0.0.1:4840/freeopcua/server/",
+    "URI": "8",
+    "CertificatePaths": {
+      "Certificate":"",
+      "ServerCertificate":"",
+      "PrivateCertificate":""
+    }
+  }
